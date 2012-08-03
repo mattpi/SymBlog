@@ -1,0 +1,13 @@
+parameters:
+    database_driver: pdo_pgsql
+    database_host: localhost
+    database_port: null
+    database_name: symblog
+    database_user: matt
+    database_password: matt2downpi
+    mailer_transport: smtp
+    mailer_host: localhost
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: ae5996c9c483f37989795ae5f1cf437645fd469c
